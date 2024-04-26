@@ -13,7 +13,7 @@ This project is aimed at creating a comprehensive football database structure us
 - **Data Visualization**: Microsoft PowerBI
 
 ## Database Schema
-You can take a look at the [schema](https://github.com/andrewzgheib/Football-Database-Analysis/blob/main/image.png), or if you wish of a more a detailed look, refer to the [Documentation.html](https://github.com/andrewzgheib/Football-Database-Analysis/blob/main/Documentation.html) file.
+You can take a look at the schema [here](https://github.com/andrewzgheib/Football-Database-Analysis/blob/main/image.png), or if you wish of a more a detailed look, refer to the [Documentation.html](https://github.com/andrewzgheib/Football-Database-Analysis/blob/main/Documentation.html) file.
 
 ## Getting Started
 1. Install and setup [PostgreSQL](https://www.postgresql.org/download/) on your local machine.
